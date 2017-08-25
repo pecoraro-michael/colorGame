@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.square {
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    background-color: purple;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#message {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
